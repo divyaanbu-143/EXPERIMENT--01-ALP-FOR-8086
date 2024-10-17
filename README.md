@@ -120,6 +120,7 @@ HLT
 ```
 
 ## Output  
+![Uploading image.png…]()
 
 ## AND of 8 bit ALP
 
