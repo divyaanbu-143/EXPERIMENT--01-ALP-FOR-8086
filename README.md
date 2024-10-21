@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/356ff78a-7742-4287-a546-8c8b8382a944)# EXPERIMENT--01-ALP-FOR-8086
+
 Name :Divya A
 Roll no :2305002007
 Date of experiment :
