@@ -1,4 +1,4 @@
-# EXPERIMENT--01-ALP-FOR-8086
+![image](https://github.com/user-attachments/assets/356ff78a-7742-4287-a546-8c8b8382a944)# EXPERIMENT--01-ALP-FOR-8086
 Name :Divya A
 Roll no :2305002007
 Date of experiment :
@@ -98,7 +98,8 @@ SUB AL,BL
 HLT
 ```
 ## Output  
-![Uploading Screenshot 2024-10-17 074655.png…]()
+![image](https://github.com/user-attachments/assets/29aaff01-08ce-4e48-9d79-fe918409bf35)
+
 
 ## Multiplication alp 
 ```
@@ -109,7 +110,10 @@ HLT
 ```
  ## Output  
 
-![Uploading Screenshot 2024-10-17 074755.png…]()
+![image](https://github.com/user-attachments/assets/892034b7-afd4-4786-89cb-bed9087cc372)
+
+
+
 
 ## Division alp 
 ```
@@ -120,7 +124,22 @@ HLT
 ```
 
 ## Output  
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/647085b3-cd58-4a70-8cdd-ed2efa3bdb09)
+
+
+## OR of 8 bit ALP
+```
+MOV AL,45H
+MOV BL,66H
+OR AL,BL
+HLT
+```
+## OUTPUT
+
+
+
+![image](https://github.com/user-attachments/assets/3abd883c-e263-4f7c-8408-5739ae86c971)
+
 
 ## AND of 8 bit ALP
 
@@ -131,17 +150,8 @@ AND AL,BL
 HLT
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/c6c54e4e-369a-4a32-a993-27f900c97c87)
 
-## OR of 8 bit ALP
-```
-MOV AL,45H
-MOV BL,66H
-OR AL,BL
-HLT
-```
-
-## OUTPUT
-![Uploading Screenshot 2024-10-17 074940.png…]()
 
 ## XOR OF 8 BIT ALP
 ```
@@ -152,7 +162,8 @@ HLT
 ```
 
 ## OUTPUT
-![Uploading Screenshot 2024-10-17 075033.png…]()
+
+![image](https://github.com/user-attachments/assets/b9fa4207-cbfa-4a66-afcd-7d406c7d14d6)
 
 
 
